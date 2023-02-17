@@ -1,4 +1,5 @@
 # SwagTranslator
+The "swaggest" translator on Github!
 
 # DESCRIPTION
 This program accepts a string as input and produces its translation in several programming languages, including: C++, C#, Java, JavaScript, PHP, HTML, Brainfuck, Rust, R, Swift, Go, Ruby, Ook, and Moo.

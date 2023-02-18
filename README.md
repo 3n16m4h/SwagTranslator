@@ -7,10 +7,11 @@ The translation is printed on the screen with random colors for each programming
 
 # Changelog
 - Updated the README.md
+- Escape of the ""
+- Final black formatting
 
 # To Do
-- Escape of the "
-- Update black formatting
+- Finnaly nothing left!
 
 # Preview
 ![preview](https://user-images.githubusercontent.com/121131442/219399129-fefd956d-3fbd-416d-a1e6-8b412e895d1d.png)
